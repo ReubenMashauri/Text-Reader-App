@@ -1,0 +1,201 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VOICE READER APP
+</name>
+</assembly>
+<members>
+<member name="T:VOICE_READER_APP.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.aaaaaa">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.administrator_52px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.back_52px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.chrome_reader_mode_96px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.chrome_reader_mode_96px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.download">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.download__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.download__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.download__3_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.empleados">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.gender_neutral_user_52px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.hhhhhhhhhhh">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.Icono_Minimizar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.images__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.import_70px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.lock_52px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.logout_rounded_filled_70px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.Mobile_Menu_Icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.music_52px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.music_52px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.new_vdr_logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.new_vdr_logo1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.new_vdr_logo2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.new_vdr_logo3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.paus">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.PDFF">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.ppppppppp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.relo3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.reportes">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.reportes1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.resuuuume">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.sorting_answers_filled_70px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.stop_70px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.user_male_70px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VOICE_READER_APP.My.Resources.Resources.windows8_60px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
